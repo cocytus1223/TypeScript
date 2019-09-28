@@ -1,1 +1,3 @@
 # TypeScript
+
+GeekTime TypeScript learning
