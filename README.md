@@ -25,3 +25,7 @@ GeekTime TypeScript learning
 语法：（变量/函数): type
 
 变量的数据类型是不可以改变的
+
+## 接口
+
+### 对象类型接口
