@@ -1,5 +1,3 @@
-import { type } from "os";
-
 // 对象接口类型
 interface List {
     readonly id: number; // readonly 只读属性，不允许修改
