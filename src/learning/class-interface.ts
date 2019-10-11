@@ -39,9 +39,9 @@ class Auto {
 interface AutoInterface extends Auto {
 }
 
-class C implements AutoInterface {
-    state = 1
-}
+// class C implements AutoInterface {
+//     state = 1
+// }
 
 class Bus extends Auto implements AutoInterface {
 
